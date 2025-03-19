@@ -1,6 +1,7 @@
 import React from 'react';
 import { FormattedMessage } from '@openimis/fe-core';
 import messagesEn from './translations/en.json';
+import messagesFr from './translations/fr.json';
 import DeduplicationFieldSelectionDialog from './components/dialogs/DeduplicationFieldSelectionDialog';
 import reducer from './reducer';
 import {
@@ -9,7 +10,10 @@ import {
 } from './components/tasks/DeduplicationResolutionTask';
 
 const DEFAULT_CONFIG = {
-  translations: [{ key: 'en', messages: messagesEn }],
+  translations: [
+    { key: 'en', messages: messagesEn },
+    { key: 'fr', messages: messagesFr }
+  ],
   reducers: [{ key: 'deduplication', reducer }],
   'deduplication.deduplicationFieldSelectionDialog': [
     DeduplicationFieldSelectionDialog,

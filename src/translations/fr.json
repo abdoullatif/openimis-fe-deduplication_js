@@ -1,0 +1,18 @@
+{
+    "deduplication.deduplicate": "Dédoublonner",
+    "deduplication.deduplicate.title": "Déduplication – {benefitPlanName}",
+    "deduplication.deduplicate.button.cancel": "Annuler",
+    "deduplication.deduplicate.fields": "Sélection du champ de détection des doublons",
+    "deduplication.deduplicate.fields.placeholder": "Sélection du champ de détection des doublons",
+    "deduplication.deduplicate.button.showDuplicateSummary": "Afficher le résumé en double",
+    "deduplication.deduplicate.summary.title": "Résumé de la déduplication",
+    "deduplication.deduplicate.button.createDeduplicationReviewTask": "Créer des tâches de révision de déduplication",
+    "deduplication.deduplicationSummaryTable.group": "Groupe",
+    "deduplication.deduplicationSummaryTable.duplicates": "Doublons",
+    "deduplication.tasks.deduplication.title": "Tâche de déduplication du plan d'avantages sociaux",
+    "deduplication.deduplicate.mutation.createTasks": "Des tâches de déduplication ont été créées.",
+    "deduplication.BeneficiaryDuplicatesTable.checkbox.header": "Sélectionnez toutes les colonnes",
+    "deduplication.BeneficiaryDuplicatesTable.merge.header": "Ne fusionnez pas",
+    "deduplication.BeneficiaryDuplicatesTable.output": "SORTIR:",
+    "deduplication.BeneficiaryDuplicatesTable.oldest": "Le plus ancien"
+  }
